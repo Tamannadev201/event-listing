@@ -9,7 +9,7 @@ const userSchema = new mongoose.Schema({
   country: { type: String },
   division: { type: String },
   district: { type: String },
-});
+}, { timestamps: true });
 
 const User = mongoose.model('User', userSchema);
 
