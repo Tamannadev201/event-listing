@@ -1,0 +1,66 @@
+// dummyEvents.js
+const dummyEvents = [
+  {
+    id: 1,
+    title: 'Tech Conference 2025',
+    date: '2025-05-15',
+    time: '10:00 AM',
+    location: 'Dhaka',
+    category: 'Technology',
+    image: 'https://images.unsplash.com/photo-1582192493926-93f4847e1323?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3',
+    description: 'A conference for tech lovers and professionals.',
+  },
+  {
+    id: 2,
+    title: 'Art Festival',
+    date: '2025-06-15',
+    time: '3:00 PM',
+    location: 'Chittagong',
+    category: 'Art',
+    image: 'https://broadwayartsfestival.com/wp-content/uploads/2023/07/Broadway-Arts-Festival-Event-Charlotte-Burn-Photography-0146_websize-e1690377481342.jpg',
+    description: 'Local art on display.',
+  },
+  {
+    id: 3,
+    title: 'Food Expo',
+    date: '2025-08-10',
+    time: '11:00 AM',
+    location: 'Rajshahi',
+    category: 'Food',
+    image: 'https://plus.unsplash.com/premium_photo-1686538381343-ff6de76c8712?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3',
+    description: 'A culinary journey through local flavors.',
+  },
+  {
+    id: 4,
+    title: 'Wedding Fest 2025',
+    date: '2025-07-20',
+    time: '5:00 PM',
+    location: 'Sylhet',
+    category: 'Wedding',
+    image: 'https://www.shutterstock.com/shutterstock/photos/374334406/display_1500/stock-photo-wedding-flower-arrangement-of-white-flowers-and-greenery-is-on-the-fest-table-decorated-with-374334406.jpg',
+    description: 'Enjoy live music from top bands!',
+  },
+  {
+    id: 5,
+    title: 'Sports Festival',
+    date: '2025-10-15',
+    time: '9:00 AM',
+    location: 'Jatrabari',
+    category: 'Sports',
+    image: 'https://images.unsplash.com/photo-1644175563233-ef4cd92531dc?w=900&auto=format&fit=crop&q=60',
+    description: 'Join us for a day of sports and fun.',
+  },
+
+  {
+    id: 6,
+    title: 'Marathon Bangladesh 2025',
+    date: '2025-09-10',
+    time: '7:00 AM',
+    location: 'Dhaka',
+    category: 'Sports',
+    image: 'https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2025/02/20/marathons-2.jpg',
+    description: 'Join us for a marathon to raise funds for a great cause.',
+  },
+];
+
+export default dummyEvents;

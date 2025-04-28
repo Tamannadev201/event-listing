@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Tech Conference",
+      "date": "2025-05-01",
+      "time": "10:00 AM",
+      "location": "Dhaka",
+      "category": "Technology",
+      "description": "An annual tech gathering."
+    },
+    {
+      "name": "Art Festival",
+      "date": "2025-06-15",
+      "time": "3:00 PM",
+      "location": "Chittagong",
+      "category": "Art",
+      "description": "Local art on display."
+    },
+  
+  {
+    "name": "Music Carnival",
+    "date": "2025-07-20",
+    "time": "6:00 PM",
+    "location": "Sylhet",
+    "category": "Music",
+    "description": "A vibrant music festival in Sylhet."
+  }
+
+  ,
+  {
+    "name": "Food Expo",
+    "date": "2025-08-10",
+    "time": "11:00 AM",
+    "location": "Rajshahi",
+    "category": "Food",
+    "description": "A culinary journey through local flavors."
+  }
+
+  ,
+  {
+    "name": "Sports",
+    "date": "2025-09-05",
+    "time": "4:00 PM",
+    "location": "Khulna",
+    "category": "Sports",
+    "description": "A celebration of local sports and athletes."
+  }
+]
