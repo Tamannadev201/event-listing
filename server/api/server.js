@@ -18,6 +18,7 @@ app.use(express.json());
 
 mongoose.connect(process.env.MONGO_URL)
   .then(() => {
+    const PORT = process.env.PORT || 5000;
     console.log('MongoDB connected');
     app.listen(5000, () => {
       console.log('Server running on port 5000 🚀');
